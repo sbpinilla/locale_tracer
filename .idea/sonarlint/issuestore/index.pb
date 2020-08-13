@@ -1,0 +1,19 @@
+
+n
+>app/src/main/java/com/atomsindia/local/network/APIService.java,3/1/3107f9992f8d4eebfafa439b64915728bb7e0148
+a
+1app/src/main/java/com/atomsindia/local/Utils.java,0/2/028398f89297c30bbfccee1ae80664b5dfcf6df7
+l
+<app/src/main/java/com/atomsindia/local/network/ApiUtils.java,f/6/f6e19e8a909a71404b1b9c93b6883f3f6fcaf39e
+o
+?app/src/main/java/com/atomsindia/local/network/PosicionDTO.java,a/a/aa52bc3ac55501827008856cf7750d1411000683
+h
+8app/src/main/java/com/atomsindia/local/MainActivity.java,8/9/8962cb7a91f4b0b604fc1ee72589d05ded3d14d4
+r
+Bapp/src/main/java/com/atomsindia/local/LocationUpdatesService.java,c/b/cb20a2cb24c55b63016efc3adbcf0d030cbd778e
+@
+app/build.gradle,f/4/f4a01d6a4fcb971362ec00a83903fd3902f52164
+r
+Bapp/src/main/java/com/atomsindia/local/network/RetrofitClient.java,9/0/90d2fd8191029cb57791d5727ddc069ec18d34af
+P
+ app/src/main/AndroidManifest.xml,8/c/8c55c3ccc257e5907959013f99656e4c8ec3903e

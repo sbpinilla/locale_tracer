@@ -1,0 +1,8 @@
+
+Q	java:S110F"<This class has 8 parents which is greater than 5 authorized.(ó¡‚­
+E
+java:S1066s"/Merge this if statement with the enclosing one.(ìÕíÓ
+V	java:S125,"<This block of commented-out lines of code should be removed.(æ½¤·ıÿÿÿÿ
+x
+java:S3252¼"\Use static access with "android.support.v4.content.ContextCompat" for "checkSelfPermission".(úÓÑ¢ÿÿÿÿÿ
+P	java:S125."<This block of commented-out lines of code should be removed.(Çøü
